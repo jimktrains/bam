@@ -52,7 +52,7 @@ Types
 | cidr        | |
 | date        | min, max |
 | email       | |
-| enum        | |
+| enum        | type |
 | file        | accept, dest |
 | float       | min, max, step |
 | inet        | |
