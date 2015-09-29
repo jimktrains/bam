@@ -1,0 +1,19 @@
+{
+    "name": "jimktrains/bam",
+    "description": "Generates CRUD front-end, back-end, and database from a single source file",
+    "license": "GPL-3.0+",
+    "version": "1.0.0-RC1",
+    "type": "project",
+    "keywords": ["crud", "generation", "database"],
+    "authors": [
+        {
+            "name": "Jim Keener",
+            "email": "jim@jimkeener.com",
+            "homepage": "http://jimkeener.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "twig/twig": "2.0.*@dev"
+    }
+}
